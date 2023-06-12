@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/register"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="421dp"
+        android:layout_height="142dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="89dp"
+            android:layout_height="101dp"
+            android:src="@drawable/unlogin" />
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="选择头像" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/number1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/iv"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="5dp"
+        tools:ignore="MissingConstraints,UnknownId">
+
+        <TextView
+            android:id="@+id/reg_number1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="账号:"
+            android:textColor="#000"
+            android:textSize="20dp" />
+
+        <EditText
+            android:id="@+id/reg_username"
+            android:layout_marginLeft="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/reg_number1"
+            android:layout_toRightOf="@+id/reg_number1"
+            android:hint="请输入账户"
+            android:singleLine="true"
+            android:padding="10dp" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/password"
+        android:backgroundTint="@color/background_color"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/iv"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="5dp"
+        tools:ignore="MissingConstraints,UnknownId">
+
+    <TextView
+        android:id="@+id/reg_number2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/reg_number1"
+        android:layout_marginTop="5dp"
+        android:padding="10dp"
+        android:text="密码:"
+        android:textColor="#000"
+        android:textSize="20dp" />
+
+        <EditText
+            android:id="@+id/reg_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/reg_number2"
+            android:layout_toRightOf="@+id/reg_number2"
+            android:hint="请输入密码"
+            android:padding="10dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/password2"
+        android:backgroundTint="@color/background_color"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/iv"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="5dp"
+        tools:ignore="MissingConstraints,UnknownId">
+
+        <TextView
+            android:id="@+id/reg_number3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/reg_number2"
+            android:layout_marginTop="5dp"
+            android:padding="10dp"
+            android:text="重复密码:"
+            android:textColor="#000"
+            android:textSize="20dp" />
+
+        <EditText
+            android:id="@+id/reg_password2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/reg_number3"
+            android:layout_toRightOf="@+id/reg_number3"
+            android:hint="请输入重复密码"
+            android:padding="10dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/number6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/iv"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="5dp"
+        android:backgroundTint="@color/background_color"
+        tools:ignore="MissingConstraints,UnknownId">
+
+        <TextView
+            android:id="@+id/reg_number5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/reg_number3"
+            android:layout_marginTop="5dp"
+            android:padding="10dp"
+            android:text="手机号码"
+            android:textColor="#000"
+            android:textSize="20dp"
+            tools:ignore="DuplicateIds" />
+
+        <EditText
+            android:id="@+id/reg_address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/reg_number4"
+            android:layout_toRightOf="@+id/reg_number4"
+            android:hint="请输入手机号码"
+            android:padding="10dp"
+            tools:ignore="DuplicateIds" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/number7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/iv"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="5dp"
+        android:backgroundTint="@color/background_color"
+        tools:ignore="MissingConstraints,UnknownId">
+
+        <TextView
+            android:id="@+id/reg_number3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/reg_number3"
+            android:layout_marginTop="5dp"
+            android:padding="10dp"
+            android:text="性别："
+            android:textColor="#000"
+            android:textSize="20dp"
+            tools:ignore="DuplicateIds" />
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RadioButton
+                android:id="@+id/radioButton"
+                android:layout_width="121dp"
+                android:layout_height="25dp"
+                android:text="男" />
+
+            <RadioButton
+                android:id="@+id/radioButton2"
+                android:layout_width="95dp"
+                android:layout_height="25dp"
+                android:text="女" />
+        </RadioGroup>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/number2"
+        android:backgroundTint="@color/background_color"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/iv"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="5dp"
+        tools:ignore="MissingConstraints,UnknownId">
+
+        <TextView
+        android:id="@+id/reg_number4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/reg_number3"
+        android:layout_marginTop="5dp"
+        android:padding="10dp"
+        android:text="邮箱:"
+        android:textColor="#000"
+        android:textSize="20dp" />
+
+        <EditText
+            android:id="@+id/reg_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/reg_number4"
+            android:layout_toRightOf="@+id/reg_number4"
+            android:hint="请输入邮箱"
+            android:padding="10dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/number"
+        android:backgroundTint="@color/background_color"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/iv"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="5dp"
+        tools:ignore="MissingConstraints,UnknownId">
+
+        <TextView
+            android:id="@+id/reg_number4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/reg_number3"
+            android:layout_marginTop="5dp"
+            android:padding="10dp"
+            android:text="地址："
+            android:textColor="#000"
+            android:textSize="20dp"
+            tools:ignore="DuplicateIds" />
+
+        <EditText
+            android:id="@+id/reg_address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/reg_number4"
+            android:layout_toRightOf="@+id/reg_number4"
+            android:hint="请输入地址（/省/市）"
+            android:padding="10dp"
+            tools:ignore="DuplicateIds" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/reg_btn_sure"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/reg_address"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="38dp"
+        android:layout_marginRight="50dp"
+        android:background="@color/background_color"
+        android:text="确定注册" />
+
+    <Button
+        android:id="@+id/reg_btn_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/reg_btn_sure"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="50dp"
+        android:layout_toRightOf="@id/reg_btn_sure"
+        android:background="@color/cardview_shadow_start_color"
+        android:text="返回登录" />
+
+</LinearLayout>
+

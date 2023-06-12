@@ -1,0 +1,882 @@
+[
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mail.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\mail.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_shoucang.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\item_shoucang.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bell1.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\bell1.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_dashboard_black_24dp.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wode_lianjie.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\activity_wode_lianjie.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wode_shuoming.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\activity_wode_shuoming.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_faxian_spot_liuyan.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\layout_faxian_spot_liuyan.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shezhi.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\shezhi.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_gallery.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_star.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\star.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_wode_listview.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\item_wode_listview.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_layout_city_home_slide_image.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout-v21\\layout_city_home_slide_image.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_menu_share.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_menu_share.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_agree.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\agree.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kefu.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\kefu.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_map_black_24dp.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_map_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wuliuyan.jpg.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\wuliuyan.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu_gallery.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_orange.jpg.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\orange.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_register.jpg.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\register.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_map_black_24dp.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_map_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\raw_pian.mp4.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\raw\\pian.mp4"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_wode_user_copo.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\layout_wode_user_copo.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_slideshow.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_menu_slideshow.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_xiaoxi.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\xiaoxi.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_share.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menu_share.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_gallery.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home_black_24dp.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gyyy.jpg.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\gyyy.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_map_black_24dp.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_map_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_next1.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\next1.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_robot.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\robot.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_notifications_black_24dp.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_city_home_introduce.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\layout_city_home_introduce.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_slideshow.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu_slideshow.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_shape_lan_color.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable-v24\\shape_lan_color.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_problem.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\problem.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_manage.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_manage.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_notifications_black_24dp.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_city_home_slide_image.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\layout_city_home_slide_image.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_manage.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu_manage.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_shilu.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\fragment_shilu.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_arrow_back_black_24dp.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow_back_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu_camera.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_camera.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wode_fenxiang.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\activity_wode_fenxiang.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gongneng2.jpg.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\gongneng2.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shan.jpg.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\shan.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_wode_vr_gridview_item.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\layout_wode_vr_gridview_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wode_liulan.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\activity_wode_liulan.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_manage.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img02.jpg.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\img02.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home_black_24dp.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_faxian_spot_findmore.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\layout_faxian_spot_findmore.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_gallery.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_banana.jpg.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\banana.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home_black_24dp.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_menu_gallery.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_star1.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\star1.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_wuliuyan_item.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\layout_wuliuyan_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_camera.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menu_camera.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_wode_userinfo.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\layout_wode_userinfo.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home_black_24dp.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_manage.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_menu_manage.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_notifications_black_24dp.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_city_home_part.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\item_city_home_part.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_liulan.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\item_liulan.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zhanghaoanquan.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\zhanghaoanquan.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_vr.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\item_vr.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_commit.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\commit.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_amiya.jpg.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\amiya.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\menu_nav_menu.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\list.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_dashboard.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bk.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\bk.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_empty.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\empty.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_map_black_24dp.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_map_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gulou.jpg.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\gulou.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gongneng1.jpg.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\gongneng1.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_liuyan_item.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\layout_liuyan_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_menu_slideshow.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_menu_slideshow.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_share.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_share.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img07.jpg.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\img07.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_dialog.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\item_dialog.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_wode_userinfo_empty.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\layout_wode_userinfo_empty.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_video.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_slideshow.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_slideshow.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_viewpage_item1.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\viewpage_item1.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_faxian.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\fragment_faxian.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_slideshow.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_share.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu_share.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home_black_24dp.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\menu_toolbar.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\menu\\toolbar.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sysm.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\sysm.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shan1.jpg.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\shan1.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_dashboard_black_24dp.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gu.jpg.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\gu.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vr.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\vr.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_map_black_24dp.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_map_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flag.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\flag.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pick.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\activity_pick.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_notifications_black_24dp.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bc1.jpg.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\bc1.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_camera.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_menu_camera.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_paths.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_shuoming.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\item_shuoming.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img06.jpg.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\img06.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_win.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\win.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_web.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\activity_web.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu_slideshow.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_slideshow.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\share.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_menu_camera.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_menu_camera.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_faxian_spot_introduce.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\layout_faxian_spot_introduce.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img05.jpg.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\img05.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hu.jpg.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\hu.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\image.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu_share.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_share.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_gallery.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_menu_manage.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_menu_manage.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_href.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\href.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_wuliuyan.jpg.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable-v24\\wuliuyan.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_fenxiang.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\item_fenxiang.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_spot.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\activity_spot.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_circle_button.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\shape_circle_button.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img08.jpg.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\img08.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_apple.jpg.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\apple.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_viewpage_item2.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\viewpage_item2.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_liuyan.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\layout_liuyan.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_camera.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notifications.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_layout_city_home_introduce.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout-v21\\layout_city_home_introduce.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_city_home_part.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\layout_city_home_part.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_correct.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\correct.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_star2.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\star2.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_background.jpg.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\login_background.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bc.jpg.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\bc.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_camera.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_camera.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_city_home_rv.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\item_city_home_rv.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_star22.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\star22.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wode_liuyan.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\activity_wode_liuyan.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_share.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_manage.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menu_manage.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gongneng3.jpg.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\gongneng3.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home_black_24dp.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_map_black_24dp.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_map_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bj1.jpg.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable-v24\\bj1.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_share.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_menu_share.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_open.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\open.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img03.jpg.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\img03.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolerbar_scroll.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\toolerbar_scroll.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_wode.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\fragment_wode.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_spot.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\item_spot.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_gallery.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_viewpage_item3.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\viewpage_item3.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hua.jpg.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\hua.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jilu.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\jilu.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_arrow_back_black_24dp.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_userinfo.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\userinfo.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_forword.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\forword.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_slideshow.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menu_slideshow.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_wode_user_copo2.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\layout_wode_user_copo2.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_liuyan.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\item_liuyan.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_auth.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\auth.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wysh.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\wysh.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_city_home_slideimage.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\layout_city_home_slideimage.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu_manage.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_manage.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_view_radius.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\shape_view_radius.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_agree1.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\agree1.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_camera.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu_camera.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_image.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\activity_image.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_wode_about_app.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\layout_wode_about_app.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img04.jpg.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\img04.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_viewpage_item4.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\viewpage_item4.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wode_vr.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\activity_wode_vr.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_wode_shoucang.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout\\layout_wode_shoucang.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tingzi.jpg.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\tingzi.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home_black_24dp.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_map_black_24dp.png.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_map_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grape.jpg.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\drawable\\grape.jpg"
+    },
+    {
+        "merged": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_layout_city_home_part.xml.flat",
+        "source": "E:\\AndroidCode\\PPZdemo(2)\\PPZdemo\\app\\src\\main\\res\\layout-v21\\layout_city_home_part.xml"
+    }
+]

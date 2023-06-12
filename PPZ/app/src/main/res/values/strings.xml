@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">浙秀汇</string>
+    <string name="title_home">诗路</string>
+    <string name="title_dashboard">发现</string>
+    <string name="title_notifications">我的</string>
+    <string name="city_introduce_right">杭州，简称“杭”，古称临安、钱塘，是浙江省省会、副省级市、杭州都市圈核心城市，国务院批复确定的中国浙江省省会和全省经济、文化、科教中心、长江三角洲中心城市之一。截至2019年，全市下辖10个区、2个县、代管1个县级市，总面积16853.57平方千米，常住人口1036万人，城镇人口813.26万人，城镇化率78.5%，常住外来人口达450.44万人。杭州地</string>
+    <string name="city_introduce_bottom">处中国华东地区、钱塘江下游、东南沿海、浙江北部、京杭大运河南端，是环杭州湾大湾区核心城市、沪嘉杭G60科创走廊中心城市、国际重要的电子商务中心。杭州人文古迹众多，西湖及其周边有大量的自然及人文景观遗迹，具代表性的有西湖文化、良渚文化、丝绸文化、茶文化，以及流传下来的许多故事传说。</string>
+    <string name="zhejiang_introduce_1">\t\t\t\t浙江，简称“浙”，是中华人民共和国省级行政区。省会杭州，位于中国东南沿海，东临东海，南接福建，西与安徽、江西相连，北与上海、江苏接壤，境内最大的河流钱塘江，因江流曲折，称之江，又称浙江，省以江名，简称"浙"。浙江省总面积10.55万平方千米。</string>
+    <string name="zhejiang_introduce_2">\t\t\t\t浙江地势由西南向东北倾斜，地形复杂。山脉自西南向东北成大致平行的三支。地跨钱塘江、瓯江、灵江、苕溪、甬江、飞云江、鳌江、曹娥江八大水系，由平原、丘陵、盆地、山地、岛屿构成。浙江省地处亚热带中部，属季风性湿润气候，自然条件较优越。截至2018年底，浙江省下辖11个省辖市（其中杭州、宁波为副省级城市），20个县级市，32个县，1个自治县，37个市辖区。</string>
+    <string name="username">小团子</string>
+    <string name="mail">1184741791@qq.com</string>
+    <string name="sex">女</string>
+    <string name="phone">15020662090</string>
+    <string name="place">浙江省宁波市</string>
+
+</resources>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_marginLeft="15dp"
+    android:layout_marginRight="15dp"
+    android:layout_marginTop="15dp">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginRight="7.5dp"
+        app:cardCornerRadius="7dp">
+
+        <RelativeLayout
+            android:id="@+id/rl_wode_vr"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#fff0c5"
+            android:padding="10dp">
+
+            <ImageView
+                android:id="@+id/wode3_left_img"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/vr"/>
+            <LinearLayout
+                android:layout_toRightOf="@id/wode3_left_img"
+                android:layout_centerVertical="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginLeft="10dp">
+
+                <TextView
+                    android:id="@+id/wode3_left_text1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="VR/AR视界"
+                    android:textSize="18sp"
+                    android:textColor="#000"/>
+                <TextView
+                    android:id="@+id/wode3_left_text2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="探索更多视界"
+                    android:textSize="12sp"/>
+
+            </LinearLayout>
+
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginLeft="7.5dp"
+        app:cardCornerRadius="7dp">
+
+        <RelativeLayout
+            android:id="@+id/rl_wode_tiaozhan"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#ffe1c5"
+            android:padding="10dp">
+
+            <ImageView
+                android:id="@+id/wode3_right_img"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/win"/>
+            <LinearLayout
+                android:layout_toRightOf="@id/wode3_right_img"
+                android:layout_centerVertical="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginLeft="10dp">
+
+                <TextView
+                    android:id="@+id/wode3_right_text1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="挑战答题"
+                    android:textSize="18sp"
+                    android:textColor="#000"/>
+                <TextView
+                    android:id="@+id/wode3_right_text2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="诗词大闯关"
+                    android:textSize="12sp"/>
+
+            </LinearLayout>
+
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

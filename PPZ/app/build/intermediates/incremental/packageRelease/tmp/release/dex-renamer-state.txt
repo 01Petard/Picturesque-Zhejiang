@@ -1,0 +1,4 @@
+#Sat Aug 15 16:11:30 CST 2020
+base.0=F\:\\AndroidCode\\PPZdemo(1)\\PPZdemo\\app\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

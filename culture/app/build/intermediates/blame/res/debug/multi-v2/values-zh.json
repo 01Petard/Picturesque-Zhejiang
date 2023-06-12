@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\AndroidCode\\culture\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\15203\\.gradle\\caches\\transforms-1\\files-1.1\\ShareSDK-3.7.7.aar\\2ba3c165bb61d4bb09ef67d7f8b32c49\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,120,348,413",
+                        "endColumns": "64,227,64,65",
+                        "endOffsets": "115,343,408,474"
+                    }
+                }
+            ]
+        }
+    ]
+}

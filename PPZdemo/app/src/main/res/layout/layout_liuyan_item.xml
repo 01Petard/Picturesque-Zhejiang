@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="10dp"
+    android:paddingBottom="15dp"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/user_icon"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/amiya"
+        android:layout_alignParentLeft="true"/>
+    <RelativeLayout
+        android:id="@+id/user_rl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/user_icon"
+        android:layout_marginLeft="10dp">
+
+        <TextView
+            android:id="@+id/user_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="10dp"
+            android:textColor="#bea68a"
+            android:textStyle="bold"
+            android:text="黄泽校"/>
+        <ImageView
+            android:id="@+id/user_agree"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/agree"
+            android:layout_alignTop="@id/user_name"
+            android:layout_alignParentRight="true"/>
+        <TextView
+            android:id="@+id/user_comment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/user_name"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="15dp"
+            android:textColor="#000"
+            android:text="这里的景色真美啊，让我吟诗一首！这里的景色真美啊，让我吟诗一首！这里的景色真美啊，让我吟诗一首！这里的景色真美啊，让我吟诗一首！这里的景色真美啊，让我吟诗一首！这里的景色真美啊，让我吟诗一首！"/>
+        <TextView
+            android:id="@+id/user_comment_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/user_comment"
+            android:text="刚刚"/>
+        <TextView
+            android:id="@+id/user_comment_reply"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/user_comment"
+            android:layout_toRightOf="@id/user_comment_time"
+            android:textColor="#000"
+            android:text=" • 回复"/>
+        <TextView
+            android:id="@+id/user_comment_delete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/user_comment"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="8dp"
+            android:textColor="#000"
+            android:text="删除"/>
+    </RelativeLayout>
+
+
+</RelativeLayout>

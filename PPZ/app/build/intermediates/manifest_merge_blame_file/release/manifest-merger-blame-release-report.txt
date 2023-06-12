@@ -1,0 +1,295 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.qingbai.idylls"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml
+10    <!-- <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> -->
+11    <!-- <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> -->
+12    <!-- <uses-permission android:name="android.permission.INTERNET" /> -->
+13    <!-- 权限获取 -->
+14    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+14-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:8:5-78
+14-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:8:22-75
+15    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+15-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:9:5-81
+15-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:9:22-78
+16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+16-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:10:5-79
+16-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:10:22-76
+17    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+17-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:11:5-76
+17-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:11:22-73
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:12:5-79
+18-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:12:22-76
+19    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+19-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:13:5-76
+19-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:13:22-73
+20    <uses-permission android:name="android.permission.INTERNET" /> <!-- 允许程序设置内置sd卡的写权限 -->
+20-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:14:5-67
+20-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:14:22-64
+21    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> <!-- 允许程序获取网络状态 -->
+21-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:15:5-81
+21-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:15:22-78
+22    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- 允许程序访问WiFi网络信息 -->
+22-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:12:5-79
+22-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:12:22-76
+23    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- 允许程序读写手机状态和身份 -->
+23-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:11:5-76
+23-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:11:22-73
+24    <uses-permission android:name="android.permission.READ_PHONE_STATE" /> <!-- 用于进行网络定位 -->
+24-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:18:5-75
+24-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:18:22-72
+25    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> <!-- 用于访问GPS定位 -->
+25-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:9:5-81
+25-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:9:22-78
+26    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" /> <!-- 用于获取wifi的获取权限，wifi信息会用来进行网络定位 -->
+26-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:10:5-79
+26-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:10:22-76
+27    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" /> <!-- 用于读取手机当前的状态 -->
+27-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:13:5-76
+27-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:13:22-73
+28    <uses-permission android:name="android.permission.READ_PHONE_STATE" /> <!-- 用于申请调用A-GPS模块 -->
+28-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:18:5-75
+28-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:18:22-72
+29    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" /> <!-- 获取运营商信息，用于支持提供运营商信息相关的接口 -->
+29-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:23:5-89
+29-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:23:22-86
+30    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- 用于访问wifi网络信息，wifi信息会用于进行网络定位 -->
+30-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:12:5-79
+30-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:12:22-76
+31    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- 这个权限用于获取wifi的获取权限，wifi信息会用来进行网络定位 -->
+31-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:11:5-76
+31-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:11:22-73
+32    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" /> <!-- 用于访问网络，网络定位需要上网 -->
+32-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:13:5-76
+32-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:13:22-73
+33    <uses-permission android:name="android.permission.INTERNET" /> <!-- 用于读取手机当前的状态 -->
+33-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:14:5-67
+33-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:14:22-64
+34    <uses-permission android:name="android.permission.READ_PHONE_STATE" /> <!-- 写入扩展存储，向扩展卡写入数据，用于写入缓存定位数据 -->
+34-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:18:5-75
+34-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:18:22-72
+35    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> <!-- 调用相机权限 -->
+35-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:15:5-81
+35-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:15:22-78
+36    <!-- <uses-permission android:name="android.permission.CAMERA" /> -->
+37    <!-- To auto-complete the email text field in the login form with the user's emails -->
+38    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+38-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:32:5-71
+38-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:32:22-68
+39    <uses-permission android:name="android.permission.READ_PROFILE" />
+39-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:33:5-71
+39-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:33:22-68
+40    <uses-permission android:name="android.permission.READ_CONTACTS" />
+40-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:34:5-72
+40-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:34:22-69
+41    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+42
+43    <application
+43-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:36:5-102:19
+44        android:allowBackup="true"
+44-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:37:9-35
+45        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+45-->[androidx.core:core:1.1.0] C:\Users\15203\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:24:18-86
+46        android:icon="@mipmap/logo"
+46-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:38:9-36
+47        android:label="@string/app_name"
+47-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:39:9-41
+48        android:requestLegacyExternalStorage="true"
+48-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:40:9-52
+49        android:roundIcon="@mipmap/logo"
+49-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:41:9-41
+50        android:supportsRtl="true"
+50-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:42:9-35
+51        android:theme="@style/AppTheme"
+51-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:43:9-40
+52        android:usesCleartextTraffic="true" >
+52-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:44:9-44
+53        <activity android:name="com.qingbai.idylls.shilu.CityVrActivity" />
+53-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:45:9-67
+53-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:45:19-55
+54        <activity android:name="com.qingbai.idylls.wode.WodeVrMoreActivity" />
+54-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:46:9-61
+54-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:46:19-58
+55        <activity android:name="com.qingbai.idylls.zhejiang.ZhejiangWenhuamingchenfenbuActivity" />
+55-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:47:9-82
+55-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:47:19-79
+56        <activity android:name="com.qingbai.idylls.zhejiang.ZhejiangShirenxingjituActivity" />
+56-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:48:9-77
+56-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:48:19-74
+57        <activity android:name="com.qingbai.idylls.zhejiang.ZhejiangShilujiaotongtuActivity" />
+57-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:49:9-78
+57-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:49:19-75
+58        <activity android:name="com.qingbai.idylls.zhejiang.ZhejiangKongjianbantuActivity" />
+58-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:50:9-76
+58-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:50:19-73
+59        <activity android:name="com.qingbai.idylls.zhejiang.ZhejiangActivity" >
+59-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:51:9-53:20
+59-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:51:19-60
+60        </activity>
+61        <activity android:name="com.qingbai.idylls.wode.WodeLianjieActivity" />
+61-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:54:9-62
+61-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:54:19-59
+62        <activity android:name="com.qingbai.idylls.wode.WodeShuomingActivity" />
+62-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:55:9-63
+62-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:55:19-60
+63        <activity android:name="com.qingbai.idylls.wode.WodeVrActivity" >
+63-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:56:9-63:20
+63-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:56:19-54
+64            <intent-filter>
+64-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:57:13-62:29
+65                <action android:name="android.intent.action.ACTION_START" />
+65-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:58:17-77
+65-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:58:25-74
+66
+67                <category android:name="android.intent.category.DEFAULT" />
+67-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:60:17-76
+67-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:60:27-73
+68                <category android:name="android.intent.category.MyCategory" />
+68-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:61:17-79
+68-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:61:27-76
+69            </intent-filter>
+70        </activity>
+71        <activity android:name="com.qingbai.idylls.wode.WodeLiulanActivity" />
+71-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:64:9-61
+71-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:64:19-58
+72        <activity android:name="com.qingbai.idylls.wode.WodeFenxiangActivity" />
+72-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:65:9-63
+72-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:65:19-60
+73        <activity android:name="com.qingbai.idylls.wode.WodeLiuyanActivity" />
+73-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:66:9-61
+73-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:66:19-58
+74        <activity android:name="com.qingbai.idylls.wode.WodeShoucangActivity" />
+74-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:67:9-63
+74-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:67:19-60
+75        <activity android:name="com.qingbai.idylls.wode.Chat.ChatActivity" />
+75-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:68:9-60
+75-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:68:19-57
+76        <activity android:name="com.qingbai.idylls.shilu.WebActivity" />
+76-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:69:9-55
+76-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:69:19-52
+77        <activity android:name="com.qingbai.idylls.shilu.shiluwenhua" />
+77-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:70:9-55
+77-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:70:19-52
+78        <activity android:name="com.qingbai.idylls.shilu.quanjingtu" />
+78-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:71:9-54
+78-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:71:19-51
+79        <activity android:name="com.qingbai.idylls.VideoActivity" />
+79-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:72:9-51
+79-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:72:19-48
+80        <activity android:name="com.qingbai.idylls.ImageActivity" />
+80-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:73:9-51
+80-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:73:19-48
+81        <activity android:name="com.qingbai.idylls.wode.LoginActivity" />
+81-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:74:9-56
+81-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:74:19-53
+82        <activity android:name="com.qingbai.idylls.wode.RegisterActivity" />
+82-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:75:9-59
+82-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:75:19-56
+83        <activity android:name="com.qingbai.idylls.wode.HeadActivity" />
+83-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:76:9-55
+83-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:76:19-52
+84        <activity android:name="com.qingbai.idylls.wode.UserInfoAcivity" />
+84-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:77:9-58
+84-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:77:19-55
+85        <activity android:name="com.qingbai.idylls.SelectCity" />
+85-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:78:9-48
+85-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:78:19-45
+86        <activity
+86-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:79:9-81:56
+87            android:name="com.qingbai.idylls.faxian.SpotActivity"
+87-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:80:13-48
+88            android:theme="@style/SpotActivityTheme" />
+88-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:81:13-53
+89        <activity
+89-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:82:9-84:48
+90            android:name="com.qingbai.idylls.MainActivity"
+90-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:83:13-41
+91            android:label="@string/app_name" />
+91-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:84:13-45
+92        <activity android:name="com.qingbai.idylls.SplashActivity" >
+92-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:85:9-91:20
+92-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:85:19-49
+93            <intent-filter>
+93-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:86:13-90:29
+94                <action android:name="android.intent.action.MAIN" />
+94-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:87:17-69
+94-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:87:25-66
+95
+96                <category android:name="android.intent.category.LAUNCHER" />
+96-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:89:17-77
+96-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:89:27-74
+97            </intent-filter>
+98        </activity>
+99
+100        <provider
+100-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:93:9-101:20
+101            android:name="androidx.core.content.FileProvider"
+101-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:94:13-62
+102            android:authorities="com.qingbai.ppztest.fileprovider"
+102-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:95:13-67
+103            android:exported="false"
+103-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:96:13-37
+104            android:grantUriPermissions="true" >
+104-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:97:13-47
+105            <meta-data
+105-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:98:13-100:54
+106                android:name="android.support.FILE_PROVIDER_PATHS"
+106-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:99:17-67
+107                android:resource="@xml/file_paths" />
+107-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:100:17-51
+108        </provider>
+109        <provider
+109-->[com.just.agentweb:agentweb:4.0.2] C:\Users\15203\.gradle\caches\transforms-2\files-2.1\8b669bb9ac1c8e34894af9da6a923398\jetified-agentweb-4.0.2\AndroidManifest.xml:12:9-20:20
+110            android:name="com.just.agentweb.AgentWebFileProvider"
+110-->[com.just.agentweb:agentweb:4.0.2] C:\Users\15203\.gradle\caches\transforms-2\files-2.1\8b669bb9ac1c8e34894af9da6a923398\jetified-agentweb-4.0.2\AndroidManifest.xml:13:13-66
+111            android:authorities="com.qingbai.idylls.AgentWebFileProvider"
+111-->[com.just.agentweb:agentweb:4.0.2] C:\Users\15203\.gradle\caches\transforms-2\files-2.1\8b669bb9ac1c8e34894af9da6a923398\jetified-agentweb-4.0.2\AndroidManifest.xml:14:13-72
+112            android:exported="false"
+112-->[com.just.agentweb:agentweb:4.0.2] C:\Users\15203\.gradle\caches\transforms-2\files-2.1\8b669bb9ac1c8e34894af9da6a923398\jetified-agentweb-4.0.2\AndroidManifest.xml:15:13-37
+113            android:grantUriPermissions="true" >
+113-->[com.just.agentweb:agentweb:4.0.2] C:\Users\15203\.gradle\caches\transforms-2\files-2.1\8b669bb9ac1c8e34894af9da6a923398\jetified-agentweb-4.0.2\AndroidManifest.xml:16:13-47
+114            <meta-data
+114-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:98:13-100:54
+115                android:name="android.support.FILE_PROVIDER_PATHS"
+115-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:99:17-67
+116                android:resource="@xml/web_files_paths" />
+116-->F:\AndroidCode\PPZdemo(1)\PPZdemo\app\src\main\AndroidManifest.xml:100:17-51
+117        </provider>
+118
+119        <activity
+119-->[com.just.agentweb:agentweb:4.0.2] C:\Users\15203\.gradle\caches\transforms-2\files-2.1\8b669bb9ac1c8e34894af9da6a923398\jetified-agentweb-4.0.2\AndroidManifest.xml:22:9-29:20
+120            android:name="com.just.agentweb.ActionActivity"
+120-->[com.just.agentweb:agentweb:4.0.2] C:\Users\15203\.gradle\caches\transforms-2\files-2.1\8b669bb9ac1c8e34894af9da6a923398\jetified-agentweb-4.0.2\AndroidManifest.xml:23:13-60
+121            android:configChanges="keyboardHidden|orientation|screenSize"
+121-->[com.just.agentweb:agentweb:4.0.2] C:\Users\15203\.gradle\caches\transforms-2\files-2.1\8b669bb9ac1c8e34894af9da6a923398\jetified-agentweb-4.0.2\AndroidManifest.xml:24:13-74
+122            android:exported="false"
+122-->[com.just.agentweb:agentweb:4.0.2] C:\Users\15203\.gradle\caches\transforms-2\files-2.1\8b669bb9ac1c8e34894af9da6a923398\jetified-agentweb-4.0.2\AndroidManifest.xml:25:13-37
+123            android:launchMode="standard"
+123-->[com.just.agentweb:agentweb:4.0.2] C:\Users\15203\.gradle\caches\transforms-2\files-2.1\8b669bb9ac1c8e34894af9da6a923398\jetified-agentweb-4.0.2\AndroidManifest.xml:26:13-42
+124            android:theme="@style/actionActivity"
+124-->[com.just.agentweb:agentweb:4.0.2] C:\Users\15203\.gradle\caches\transforms-2\files-2.1\8b669bb9ac1c8e34894af9da6a923398\jetified-agentweb-4.0.2\AndroidManifest.xml:27:13-50
+125            android:windowSoftInputMode="stateHidden|stateAlwaysHidden" >
+125-->[com.just.agentweb:agentweb:4.0.2] C:\Users\15203\.gradle\caches\transforms-2\files-2.1\8b669bb9ac1c8e34894af9da6a923398\jetified-agentweb-4.0.2\AndroidManifest.xml:28:13-72
+126        </activity>
+127
+128        <provider
+128-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\15203\.gradle\caches\transforms-2\files-2.1\a7777210eeae7ec0839470505116d148\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+129            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+129-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\15203\.gradle\caches\transforms-2\files-2.1\a7777210eeae7ec0839470505116d148\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+130            android:authorities="com.qingbai.idylls.lifecycle-process"
+130-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\15203\.gradle\caches\transforms-2\files-2.1\a7777210eeae7ec0839470505116d148\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+131            android:exported="false"
+131-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\15203\.gradle\caches\transforms-2\files-2.1\a7777210eeae7ec0839470505116d148\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+132            android:multiprocess="true" />
+132-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\15203\.gradle\caches\transforms-2\files-2.1\a7777210eeae7ec0839470505116d148\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+133    </application>
+134
+135</manifest>

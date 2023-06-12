@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E5E6E0</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#E6417D</color>
+    <color name="airGreen">#F308D5A6</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="airblue">#ECDB40</color>
+    <color name="leafRead">#E8EE85B0</color>
+    <color name="b">#CC9900</color>
+</resources>

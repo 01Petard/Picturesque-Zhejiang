@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">宁波楼阁文化</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">欢迎使用</string>
+    <string name="nav_header_subtitle">本系统由LazyForce提供</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="register">注册</string>
+    <string name="login">登录</string>
+    <string name="forget_pass">忘记密码</string>
+    <string name="tip_password">密码</string>
+    <string name="re_pass">确认密码</string>
+    <string name="tip_account">账号</string>
+
+    <string name="language">基本语言</string>
+    <string name="home_introduce">楼阁介绍</string>
+    <string name="home_rote">VR漫游</string>
+    <string name="home_video">相关视频</string>
+    <string name="home_link">阁楼风光</string>
+    <string name="home_map">地  图</string>
+    <string name="home_summary">鼓楼全景</string>
+    <string name="main">主  页</string>
+    <string name="weather">天  气</string>
+    <string name="setup">设  置</string>
+    <string name="forum">留言板</string>
+    <string name="share">app分享</string>
+    <string name="app">宁波楼阁文化</string>
+    <string name="c1">关于“天一阁”</string>
+    <string name="c2">关于“鼓楼”</string>
+    <string name="c3">天一阁</string>
+    <string name="c4">(1) 阁楼简介</string>
+    <string name="c5">天一阁位于浙江宁波市海曙区，是中国现存最早的私家藏书楼，也是亚洲现有最古老的图书馆和世界最早的三大家族图书馆之一。</string>
+    <string name="c6">天一阁占地面积2.6万平方米，建于明朝中期，由当时退隐的兵部右侍郎范钦主持建造，1982年被国务院公布为全国重点文物保护单位。现藏各类古籍近30万卷，其中珍椠善本8万卷，尤以明代地方志和科举录最为珍贵。</string>
+    <string name="c7">我馆事业发展迅速，先后新增中国地方志珍藏馆、银台第官宅博物馆、麻将起源地陈列馆等处。 书阁为木构的二层硬山顶建筑，通高8.5米。</string>
+    <string name="c8">底层面阔、进深各六间，前后有廊。二层除楼梯间外为一大通间，以书橱间隔。</string>
+    <string name="c9">此外，还在楼前凿“天一池”通月湖，既可美化环境，又可蓄水以防火。天一阁的建筑布局后来为其他藏书楼所效仿。</string>
+    <string name="c10">(2) 藏书文化</string>
+    <string name="c11">“藏书之富，甲于天下”，2003年开幕的首届天一阁中国藏书文化节展示了宁波人引为自豪的城市“文化招牌”：藏书文化。</string>
+    <string name="c12">鼓楼</string>
+    <string name="s1">(1) 宁波鼓楼</string>
+    <string name="s2">“谯楼鼓角晓连营”，元代诗人陈孚的诗句，体现了鼓楼在我国历史上的特殊地位。古时鼓楼设有报时的刻漏和更鼓，日常击鼓报时；战时侦察瞭望，还负有保城池，抵外侮的使命。</string>
+    <string name="s3">当年明州刺史韩察将州治从小溪镇迁到宁波“三江口”，以中山广场到鼓楼这一带为中心，建起官置，又立木栅为城，后来又以大城砖石筑成城墙，历史上叫子城。子城的南城门就是现在的鼓楼。</string>
+    <string name="s4">(2) 甬派建筑</string>
+    <string name="s5">宁波传统民居用材方面，木材以杉木、松木等当地乡土树种为主，石材也以当地出产的青石、梅园石为主，名贵木材在民居建筑中较为罕见。民居建筑大多不太追求华丽，讲究务实实用，儒雅大方，雕饰也不多。一般雕刻主要在抱头梁、牛腿、雀替、柱础等部位，室内梁架一般不施雕刻，柱子及梁架规格轻巧实用，这些与徽派建筑形成强烈对比。</string>
+    <string name="s6">建筑的外墙色彩主张平淡自然的美学观，以冷灰为主调，以黑白为基色，青砖、粉墙或清水砖墙、黛瓦，以黑、白、灰的层次变化组成单纯、统一的建筑色调，有空斗清水墙、实砌墙和瓦爿墙，具有质朴典雅之美。据说这种色彩格调是受南宋理学家朱熹“大抵圣人之言，本自平易，而平易之中其旨无穷”的思想影响。</string>
+    <string name="i1">1.基本菜单</string>
+    <string name="i2">体验VR（360°）</string>
+    <string name="i3">天一阁（360°）</string>
+    <string name="i4">收 藏</string>
+    <string name="i5">刷新数据</string>
+    <string name="i6">天一阁（360°）</string>
+    <string name="i7">构成宁波天一阁的文化介绍，简单解说历史</string>
+    <string name="i8">体验构成宁波天一阁的同时，悠闲地散步游览，推荐此旅行线路。</string>
+    <string name="i9">可以确认所有文化遗产的场所、现在的地点。</string>
+    <string name="i10">在现场可以体验VR（360°全景）。以后即登陆收藏，随时课观看VR。</string>
+    <string name="i11">可以观看天一阁复原CG（360°全景）</string>
+    <string name="i12">仅在现场能够观看的360°全景。</string>
+    <string name="i13">在现场体验VR即登陆收藏，随时都可观看360°全景影片。</string>
+    <string name="i14">如有更新的数据会有显示，点击下载即可更新。</string>
+    <string name="i15">可以选择语言。</string>
+    <string name="i16">返回首页</string>
+    <string name="i17">点击可查看当地天气。</string>
+    <string name="a1">版本更新</string>
+    <string name="a2">使用方法</string>
+    <string name="w1">友情链接</string>
+    <string name="a4">当前版本</string>
+    <string name="num" translatable="false">1.0</string>
+    <string name="a5">软件相关</string>
+    <string name="z1">选择语言</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">你好</string>
+    <string name="title_activity_login">登录</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">用户名</string>
+    <string name="prompt_password">密码(可选)</string>
+    <string name="action_sign_in">登录或注册</string>
+    <string name="action_sign_in_short">登录</string>
+    <string name="error_invalid_email">电话号码无效</string>
+    <string name="error_invalid_password">密码必须为6位以上数字和字符</string>
+    <string name="error_incorrect_password">密码错误</string>
+    <string name="error_field_required">此项必填</string>
+    <string name="permission_rationale">"提供电子邮件填写需要联系人权限."</string>
+    <string name="title_activity_register">注册</string>
+</resources>

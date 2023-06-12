@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="160dp"
+    android:layout_marginTop="-20dp"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp"
+    android:paddingTop="40dp"
+    android:background="#fcaf17">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/wode_usericon"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginRight="10dp"
+        android:src="@drawable/amiya"/>
+    <LinearLayout
+        android:layout_toRightOf="@id/wode_usericon"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:orientation="vertical"
+        android:gravity="center_vertical">
+        <TextView
+            android:id="@+id/wode_username"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="黄泽校"
+            android:textColor="#fff"
+            android:textSize="22sp"/>
+        <TextView
+            android:id="@+id/wode_userpage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="个人主页 >"
+            android:clickable="true"
+            android:textColor="#fff"
+            android:textSize="14sp"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

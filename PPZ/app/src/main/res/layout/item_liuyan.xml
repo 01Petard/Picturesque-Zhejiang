@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="10dp"
+    app:cardCornerRadius="7dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
+
+        <TextView
+            android:id="@+id/wode_liuyan_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:text="外滩"
+            android:textColor="#000"
+            android:textSize="18sp"/>
+        <TextView
+            android:id="@+id/wode_liuyan_msg"
+            android:layout_below="@id/wode_liuyan_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textColor="#000"
+            android:text="景色很美！"/>
+        <TextView
+            android:id="@+id/wode_liuyan_shijianword"
+            android:layout_below="@id/wode_liuyan_msg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="留言时间："/>
+        <TextView
+            android:id="@+id/wode_liuyan_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/wode_liuyan_msg"
+            android:layout_toRightOf="@id/wode_liuyan_shijianword"
+            android:text="2020-08-01"/>
+
+    </RelativeLayout>
+
+
+</androidx.cardview.widget.CardView>

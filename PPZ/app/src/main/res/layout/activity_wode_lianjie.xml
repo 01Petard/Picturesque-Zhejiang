@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bc_youqinglianjie">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="130dp"
+        android:layout_marginLeft="150dp"
+        android:gravity="center"
+        android:text="友情链接"
+        android:textSize="20sp"
+        android:textColor="#000000"/>
+
+    <LinearLayout
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp">
+        <Button
+            android:id="@+id/s1"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="浙江之旅-玩转浙江官网"
+            android:textColor="#DC413018"
+            android:background="@drawable/shape_lan_color"/>
+        <Button
+            android:id="@+id/s2"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="80dp"
+            android:text="浙江文化网"
+            android:textColor="#DC413018"
+            android:background="@drawable/shape_lan_color"/>
+        <Button
+            android:id="@+id/s3"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="80dp"
+            android:text="华夏诗词-浙江诗网"
+            android:textColor="#DC413018"
+            android:background="@drawable/shape_lan_color"/>
+    </LinearLayout>
+</LinearLayout>

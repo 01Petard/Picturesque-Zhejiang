@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bc">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none"
+        android:layout_marginBottom="60dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/bc1"
+                android:layout_marginTop="-38dp"
+                android:layout_marginBottom="-40dp">
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:id="@+id/title"
+                android:text="鼓楼"
+                android:textColor="#8D664B"
+                android:textSize="35sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="宁波鼓楼"
+                android:textSize="20dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginBottom="5dp"
+                android:id="@+id/fengjingname"
+                android:textColor="#000000" />
+
+            <ImageView
+                android:id="@+id/pic0"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/gulou" />
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="25dp"
+                    android:padding="10dp"
+                    android:text="“谯楼鼓角晓连营”，元代诗人陈孚的诗句，体现了鼓楼在我国历史上的特殊地位。古时鼓楼设有报时的刻漏和更鼓，日常击鼓报时；战时侦察瞭望，还负有保城池，抵外侮的使命。"
+                    android:textSize="15sp"/>
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:textSize="15sp"
+                android:text="当年明州刺史韩察将州治从小溪镇迁到宁波“三江口”，以中山广场到鼓楼这一带为中心，建起官置，又立木栅为城，后来又以大城砖石筑成城墙，历史上叫子城。子城的南城门就是现在的鼓楼。" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="甬派建筑"
+                android:id="@+id/fengjingname2"
+                android:layout_marginLeft="30dp"
+                android:layout_marginBottom="5dp"
+                android:textSize="20dp"
+                android:textColor="#000000" />
+
+            <ImageView
+                android:id="@+id/pic1"
+                android:layout_width="350dp"
+                android:layout_height="180dp"
+                android:layout_gravity="center"
+                android:scaleType="fitXY"
+                android:src="@drawable/gu" />
+            <TextView
+                android:id="@+id/t1"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:text="宁波传统民居用材方面，木材以杉木、松木等当地乡土树种为主，石材也以当地出产的青石、梅园石为主，名贵木材在民居建筑中较为罕见。民居建筑大多不太追求华丽，讲究务实实用，儒雅大方，雕饰也不多。一般雕刻主要在抱头梁、牛腿、雀替、柱础等部位，室内梁架一般不施雕刻，柱子及梁架规格轻巧实用，这些与徽派建筑形成强烈对比。"
+                android:textSize="15sp"/>
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    android:id="@+id/t2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginLeft="25dp"
+                    android:text="建筑的外墙色彩主张平淡自然的美学观，以冷灰为主调，以黑白为基色，青砖、粉墙或清水砖墙、黛瓦，以黑、白、灰的层次变化组成单纯、统一的建筑色调，有空斗清水墙、实砌墙和瓦爿墙，具有质朴典雅之美。据说这种色彩格调是受南宋理学家朱熹“大抵圣人之言，本自平易，而平易之中其旨无穷”的思想影响。"
+                    android:textSize="15sp" />
+
+            </LinearLayout>
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

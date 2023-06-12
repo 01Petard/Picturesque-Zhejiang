@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"गृह खोज्नुहोस्"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"माथि खोज्नुहोस्"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"थप विकल्पहरू"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"सम्पन्न भयो"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"सबै हेर्नुहोस्"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"एउटा अनुप्रयोग छान्नुहोस्"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"निष्क्रिय पार्नुहोस्"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"सक्रिय गर्नुहोस्"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"खोज्नुहोस्..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"प्रश्‍न हटाउनुहोस्"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"जिज्ञासाको खोज गर्नुहोस्"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"खोज्नुहोस्"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"जिज्ञासा पेस गर्नुहोस्"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"भ्वाइस खोजी"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"साझेदारी गर्नुहोस्..."</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> सँग आदान प्रदान गर्नुहोस्"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"संक्षिप्त पार्नुहोस्"</string>
+    <string msgid="233061162317617848" name="back_button_content_description">"पछाडि"</string>
+    <string msgid="2401572676578172896" name="cancel_button">"रद्द गर्नुहोस्"</string>
+    <string msgid="2482357845034618478" name="dialog_button_got_it">"बुझेँ"</string>
+    <string msgid="4505853433204459373" name="dialog_button_open_help_center">"मद्दत केन्द्र खोल्नुहोस्"</string>
+    <string msgid="4028688231551615655" name="dialog_message_incompatible_phone">"Daydream चलाउन मिल्ने फोनको आवश्यकता पर्छ। थप जानकारीका लागि Daydream को मद्दत केन्द्रमा जानुहोस्।"</string>
+    <string msgid="3560856374975640601" name="dialog_message_no_cardboard">"आफ्नो भ्युअर कन्फिगर गर्न कार्डबोर्ड अनुप्रयोग प्राप्त गर्नुहोस्।"</string>
+    <string msgid="418839137454435402" name="dialog_message_setup">"उत्कृष्ट अनुभवका लागि आफ्नो भ्युअर सेट अप गर्नुहोस्।"</string>
+    <string msgid="7887077605817014784" name="dialog_title">"कन्फिगर गर्नुहोस्"</string>
+    <string msgid="4515090705573059650" name="dialog_title_incompatible_phone">"नमिल्दो फोन"</string>
+    <string msgid="2594928940370730859" name="dialog_title_vr_core_not_enabled">"सेटअप गर्न आवश्यक छ"</string>
+    <string msgid="6322165810291059770" name="dialog_title_vr_core_not_installed">"स्थापना गर्न आवश्यक पर्छ"</string>
+    <string msgid="455961049302726493" name="dialog_title_warning">"चेतावनी"</string>
+    <string msgid="1966424794507569244" name="dialog_vr_core_not_enabled">"Google का VR सेवाहरू सक्रिय नगरिकन यो अनुप्रयोगले राम्ररी काम नगर्न सक्छ, कृपया जारी राख्नु अघि फोनका सेटिङहरूमा गई यसलाई सक्षम पार्नुहोस्।"</string>
+    <string msgid="7122144659930752678" name="dialog_vr_core_not_installed">"Google का VR सेवाहरू बिना यो अनुप्रयोगले राम्ररी काम नगर्न सक्छ। कृपया जारी राख्नु अघि Play स्टोरबाट Google का VR सेवाहरूलाई स्थापना गर्नुहोस्।"</string>
+    <string msgid="6145412853379876634" name="go_to_playstore_button">"Play स्टोरमा जानुहोस्"</string>
+    <string msgid="6878752668266068283" name="go_to_vr_listeners_settings_button">"सेटिङहरूमा जानुहोस्"</string>
+    <string msgid="5324772199357788720" name="no_browser_text">"वेबसाइट खोल्ने कुनै ब्राउजर छैन"</string>
+    <string msgid="2306297166333705530" name="place_your_phone_into_cardboard">"तपाईंको फोन आफ्नो कार्डबोर्ड भ्युअरमा राख्नुहोस्"</string>
+    <string msgid="5433369525545709510" name="place_your_viewer_into_viewer_format">"तपाईंको फोनलाई आफ्नो <ns1:g id="VIEWER_NAME">%s</ns1:g> भ्युअरमा राख्नुहोस्"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"खोज्नुहोस्"</string>
+    <string msgid="3719682527828378500" name="settings_button_content_description">"सेटिङहरू"</string>
+    <string msgid="20964482303479393" name="setup_button">"सेटअप गर्नुहोस्"</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"९९९+"</string>
+    <string msgid="7856245902137004584" name="switch_viewer_action">"बदल्नुहोस्"</string>
+    <string msgid="816514297101696447" name="switch_viewer_prompt">"अर्को कुनै भ्युअरको प्रयोग गर्दै हुनुहुन्छ?"</string>
+</resources>

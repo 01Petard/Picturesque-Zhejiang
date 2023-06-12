@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:orientation="horizontal"
+            android:layout_gravity="center"
+            >
+
+            <ImageView
+                android:id="@+id/iv_comment_star_1"
+                android:layout_width="100px"
+                android:layout_height="150px"
+                android:layout_marginRight="20px"
+                android:src="@drawable/star_empty" />
+
+            <ImageView
+                android:id="@+id/iv_comment_star_2"
+                android:layout_width="100px"
+                android:layout_height="150px"
+                android:layout_marginRight="20px"
+                android:src="@drawable/star_empty" />
+            <ImageView
+                android:id="@+id/iv_comment_star_3"
+                android:layout_width="100px"
+                android:layout_height="150px"
+                android:layout_marginRight="20px"
+                android:src="@drawable/star_empty" />
+            <ImageView
+                android:id="@+id/iv_comment_star_4"
+                android:layout_width="100px"
+                android:layout_height="150px"
+                android:layout_marginRight="20px"
+                android:src="@drawable/star_empty" />
+            <ImageView
+                android:id="@+id/iv_comment_star_5"
+                android:layout_width="100px"
+                android:layout_height="150px"
+                android:layout_marginRight="20px"
+                android:src="@drawable/star_empty" />
+
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="200dp">
+
+            <EditText
+                android:id="@+id/content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minLines="6"
+                android:layout_margin="20dp"
+                android:background="#DCDCDC"
+                android:inputType="textMultiLine"
+                android:gravity="left|top"
+                android:hint="说说你的看法吧"/>
+        </LinearLayout>
+        <Button
+            android:id="@+id/dpublic"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:text="发表"
+            android:layout_gravity="right"/>
+        <ImageView
+            android:id="@+id/image2"
+            android:layout_width="1dp"
+            android:layout_height="1dp"
+            android:layout_alignRight="@+id/button1"
+            android:layout_centerVertical="true"/>
+    </LinearLayout>
+
+</LinearLayout>

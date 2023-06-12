@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bc_ziranshanshui_1080">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none"
+        android:paddingTop="60dp"
+        android:paddingBottom="60dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+<!--            <ImageView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:src="@drawable/bc1"-->
+<!--                android:layout_marginTop="-38dp"-->
+<!--                android:layout_marginBottom="-40dp">-->
+
+<!--            </ImageView>-->
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:id="@+id/title"
+                android:text="诗路文化"
+                android:textColor="#8D664B"
+                android:textSize="35sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="#FFFAF0"
+                android:text="贺知章"
+                android:textSize="20dp"
+                android:layout_marginLeft="20dp"
+                android:id="@+id/fengjingname2"
+                android:textColor="#000000" />
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="1px"
+                android:background="#66CCFF" />
+            <ImageView
+                android:id="@+id/pic2"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/hezhizhang" />
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/text2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="25dp"
+                    android:padding="10dp"
+                    android:text="贺知章（约659年— 约744年），字季真，晚年自号“四明狂客”、“秘书外监”，越州永兴（今浙江杭州萧山区）人。唐代诗人、书法家。
+少时以诗文知名。武则天证圣元年（695年）中乙未科状元，授予国子四门博士，迁太常博士。开元中，张说为丽正殿修书使，奏请知章入书院，同撰《六典》及《文纂》。后接太常少卿，迁礼部侍郎，加集贤院学士，改授工部侍郎。俄迁秘书监。他为人旷达不羁，好酒，有“清谈风流”之誉，晚年尤纵。天宝初，请为道士还乡里，诏赐镜湖剡川一曲，御制诗以赠行，皇太子以下咸就执别。建千秋观以隐居其内，未几卒，年八十六。肃宗赠礼部尚书。 "
+                    android:textSize="15sp"/>
+
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:textSize="15sp"
+                android:text="贺知章与张若虚、张旭、包融并称“吴中四士”；与李白、李适之等谓“饮中八仙”；又与陈子昂、卢藏用、宋之问、王适、毕构、李白、孟浩然、王维、司马承祯等称为“仙宗十友”。其诗文以绝句见长，除祭神乐章、应制诗外，其写景、抒怀之作风格独特，清新潇洒，其中《咏柳》《回乡偶书》等脍炙人口，千古传诵。作品大多散佚，《全唐诗》录其诗19首" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="#FFFAF0"
+                android:text="戴望舒"
+                android:textSize="20dp"
+                android:layout_marginLeft="20dp"
+                android:id="@+id/fengjingname"
+                android:textColor="#000000" />
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="1px"
+                android:background="#66CCFF" />
+            <ImageView
+                android:id="@+id/pic"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/wangshuqiu" />
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="25dp"
+                    android:padding="10dp"
+                    android:text="戴望舒能在文学史上留名最大的原因是他所创作的优秀的诗歌，他本人也在二十年代末和三十年代初因
+为其风格独特的诗作被人称为现代诗派“诗坛领袖”。1927年，他的诗《雨巷》显示了新月派向现代派过渡的趋向，而1929年所创作的《我底记忆》则成为了现代诗派的起点。（钱理群）"
+                    android:textSize="15sp"/>
+
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/text3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:textSize="15sp"
+                android:text="戴望舒诗歌中的忧郁情思为基点，诗歌中所蕴含的既有古典意味的生命感受。首先，戴望舒的爱情诗在表现爱情的隐私性以及表现爱情时多运用女性意象方面，明显地受到晚唐诗人的影响，从某种意义上甚至可以说是对温、李诗歌相思主题的现代连释。同时，爱情成为诗人人生体验的主要内容之一，这体现了戴望舒诗歌的现代性。综言之，戴望舒的爱情经历是现代的,爱情特质是现代的，但他所赋予的表现形式却是古典的、传统的。其次，戴望舒诗歌中的悲秋主题深受中国古典文学的影响，诗人以咏秋的传统题材来呈现现代人寂寞与青春烦忧的感伤情怀，加强了诗歌的审美张力。而理解隐藏在悲秋主题背后的死亡意识则能更好的理解诗歌中的忧郁情感。分析戴望舒的《致萤火》等诗篇，我们还可以发现诗人的死亡想象与书写方式属于典型的道家文化系统。最后，戴望舒诗歌中的田园乡愁与牧歌情怀是一种传统的人间情怀的流露，深具东方诗的神韵，而漂泊的、倦行的旅人形象不仅受到中国古代诗歌羁旅者形象的影响,同时寻梦者与夜行人形象又明显地带有西方象征主义的影响，构成了一个带有现代性意味的创作母题。作为一位深受中西文学和文化影响的诗人，戴望舒积极寻找中西诗歌艺术的融合点，创造出了属于自己民族的现代诗。戴望舒在新诗的民族性建构方面的一些经验和做法启示现当代作家们：在全球化的背景下，现代中国新诗的创作，应该以民族文化审美心理机制为基础，以民族精神为灵魂,来吸收外国文学的艺术营养，建构具有现代这一时代特色的中国文学的民族性。（李伟超）" />
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>

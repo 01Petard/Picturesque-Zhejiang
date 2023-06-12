@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.vr:sdk-panowidget:1.10.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/sdk-panowidget-1.10.0.aar/423c9cee8a9c64880ace0fc1b21d2b5b/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/sdk-panowidget-1.10.0.aar/423c9cee8a9c64880ace0fc1b21d2b5b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/sdk-panowidget-1.10.0.aar/423c9cee8a9c64880ace0fc1b21d2b5b/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

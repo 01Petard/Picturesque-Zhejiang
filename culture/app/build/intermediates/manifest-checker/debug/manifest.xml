@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.example.dell.myapplication" android:versionName="1.0" android:versionCode="1">
+  <uses-sdk android:targetSdkVersion="28" android:minSdkVersion="24"/>
+  <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+  <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+  <uses-permission android:name="android.permission.INTERNET"/>
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+  <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+  <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+  <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+  <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"/>
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+  <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+  <uses-permission android:name="android.permission.INTERNET"/>
+  <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+  <uses-permission android:name="android.permission.CAMERA"/>
+  <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+  <uses-permission android:name="android.permission.READ_PROFILE"/>
+  <uses-permission android:name="android.permission.READ_CONTACTS"/>
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+  <application android:supportsRtl="true" android:debuggable="true" android:label="@string/app_name" android:name="com.mob.MobApplication" android:theme="@style/AppTheme" android:appComponentFactory="android.support.v4.app.CoreComponentFactory" android:icon="@mipmap/ic_launcher" android:allowBackup="true" android:testOnly="true" android:roundIcon="@mipmap/ic_launcher_round">
+    <meta-data android:name="com.google.android.actions" android:resource="@drawable/nor_concor"/>
+    <meta-data android:name="com.amap.api.v2.apikey" android:value="5c18364716ed064e17658a610bd9eeac"/>
+    <activity android:windowSoftInputMode="adjustPan" android:label="@string/app_name" android:name="com.example.dell.myapplication.MainActivity" android:theme="@style/AppTheme.NoActionBar">
+            .
+            <intent-filter>
+        <action android:name="android.intent.action.MAIN"/>
+        <category android:name="android.intent.category.LAUNCHER"/>
+      </intent-filter>
+    </activity>
+    <activity android:name="com.example.dell.myapplication.FunctionActivity"/>
+    <service android:name="com.amap.api.location.APSService"/>
+    <activity android:name="com.example.dell.myapplication.tool.ToolPlayer"/>
+    <provider android:name="android.support.v4.content.FileProvider" android:grantUriPermissions="true" android:exported="false" android:authorities="com.example.dell.myapplication.fileprovider">
+      <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/file_paths"/>
+    </provider>
+    <activity android:name="com.example.dell.myapplication.tool.ToolIntroduce"/>
+    <activity android:name="com.example.dell.myapplication.tool.ToolLanguage"/>
+    <activity android:name="com.example.dell.myapplication.LoginActivity" android:label="@string/title_activity_login"/>
+    <activity android:name="com.example.dell.myapplication.RegisterActivity" android:label="@string/title_activity_register"/>
+    <activity android:label="" android:name="pub.devrel.easypermissions.AppSettingsDialogHolderActivity" android:theme="@style/EasyPermissions.Transparent" android:exported="false"/>
+    <provider android:name="com.android.tools.ir.server.InstantRunContentProvider" android:authorities="com.example.dell.myapplication.com.android.tools.ir.server.InstantRunContentProvider" android:multiprocess="true"/>
+    <meta-data xmlns:tools="http://schemas.android.com/tools" android:name="Mob-AppKey" android:value="2c66f14576eec" tools:node="merge"/>
+    <meta-data xmlns:tools="http://schemas.android.com/tools" android:name="Mob-AppSecret" android:value="46902ac896233ca02849367efac3c99c" tools:node="merge"/>
+    <activity xmlns:tools="http://schemas.android.com/tools" android:windowSoftInputMode="stateHidden|adjustResize" android:name="com.mob.tools.MobUIShell" android:configChanges="keyboardHidden|orientation|screenSize" android:theme="@android:style/Theme.Translucent.NoTitleBar" tools:node="merge">
+      <intent-filter>
+        <action android:name="com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY"/>
+        <category android:name="android.intent.category.DEFAULT"/>
+      </intent-filter>
+    </activity>
+    <activity android:launchMode="singleTask" android:name="cn.sharesdk.tencent.qq.ReceiveActivity" android:noHistory="true">
+      <intent-filter>
+        <data android:scheme="tencent100371282"/>
+        <action android:name="android.intent.action.VIEW"/>
+        <category android:name="android.intent.category.DEFAULT"/>
+        <category android:name="android.intent.category.BROWSABLE"/>
+      </intent-filter>
+    </activity>
+    <activity android:launchMode="singleTask" android:name="com.tencent.tauth.AuthActivity" android:noHistory="true"/>
+    <activity android:screenOrientation="behind" android:name="com.tencent.connect.common.AssistActivity" android:configChanges="orientation|keyboardHidden|screenSize" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+    <activity android:name="cn.sharesdk.douyin.bdopen.DouYinHandlerActivity" android:configChanges="orientation|screenSize|keyboardHidden" android:exported="true"/>
+    <activity-alias android:name=".bdopen.BdEntryActivity" android:exported="true" android:targetActivity="cn.sharesdk.douyin.bdopen.DouYinHandlerActivity"/>
+    <activity android:name="cn.sharesdk.facebookmessenger.ReceiveActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar" android:exported="true">
+      <intent-filter>
+        <action android:name="android.intent.action.PICK"/>
+        <category android:name="android.intent.category.DEFAULT"/>
+        <category android:name="com.facebook.orca.category.PLATFORM_THREAD_20150314"/>
+      </intent-filter>
+    </activity>
+    <activity xmlns:tools="http://schemas.android.com/tools" android:name="cn.sharesdk.wechat.utils.WechatHandlerActivity" android:configChanges="keyboardHidden|orientation|screenSize" android:exported="false" tools:node="merge"/>
+    <activity-alias xmlns:tools="http://schemas.android.com/tools" android:name="com.example.dell.myapplication.wxapi.WXEntryActivity" android:exported="true" android:targetActivity="cn.sharesdk.wechat.utils.WechatHandlerActivity" tools:node="merge"/>
+    <activity android:windowSoftInputMode="stateHidden|adjustResize" android:launchMode="singleTop" android:name="cn.sharesdk.framework.loopshare.RestoreTempActivity" android:configChanges="keyboardHidden|orientation|screenSize" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+    <activity android:launchMode="singleTask" android:name="cn.sharesdk.loopshare.LoopShareActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen">
+      <intent-filter>
+        <action android:name="android.intent.action.VIEW"/>
+        <category android:name="android.intent.category.DEFAULT"/>
+        <category android:name="android.intent.category.BROWSABLE"/>
+        <data android:scheme="ssdk2c66f14576eec" android:host="cn.sharesdk.loop"/>
+      </intent-filter>
+    </activity>
+  </application>
+  <uses-permission android:name="android.permission.BLUETOOTH"/>
+</manifest>

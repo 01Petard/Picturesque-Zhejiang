@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="a1">臨近信號</string>
+    <string name="a2">應用的使用方法</string>
+    <string name="a4">版本</string>
+    <string name="a5">軟件相關</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"瀏覽首頁"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"向上瀏覽"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多選項"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"選擇應用程式"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"關閉"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"開啟"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"Delete 鍵"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"Enter 鍵"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"空格鍵"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu +"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜尋…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查詢"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜尋查詢"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜尋"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查詢"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"語音搜尋"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"選擇分享對象"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"與「<ns1:g id="APPLICATION_NAME">%s</ns1:g>」分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收合"</string>
+    <string name="action_settings">設置</string>
+    <string name="action_sign_in">登入或注册</string>
+    <string name="action_sign_in_short">登入</string>
+    <string name="app">寧波閣樓文化</string>
+    <string name="app_name">樓閣文化</string>
+    <string msgid="233061162317617848" name="back_button_content_description">"返回"</string>
+    <string name="c1">關於“天一閣”</string>
+    <string name="c10">(2) 藏書文化</string>
+    <string name="c11">“藏書之富，甲於天下”，2003年開幕的首屆天一閣中國藏書文化節展示了寧波人引為自豪的城市“文化招牌”：藏書文化。</string>
+    <string name="c12">鼓樓</string>
+    <string name="c2">關於“鼓樓”</string>
+    <string name="c3">天一閣</string>
+    <string name="c4">(1) 閣樓簡介</string>
+    <string name="c5">天一閣位於浙江寧波市海曙區，是中國現存最早的私家藏書樓，也是亞洲現有最古老的圖書館和世界最早的三大家族圖書館之一。</string>
+    <string name="c6">天一閣佔地面積2.6萬平方米，建於明朝中期，由當時退隱的兵部右侍郎范欽主持建造，1982年被國務院公佈為全國重點文物保護單位。</string>
+    <string name="c7">我館事業發展迅速，先後新增中國地方志珍藏館、銀台第官宅博物館、麻將起源地陳列館等處。</string>
+    <string name="c8">底層面闊、進深各六間，前後有廊。</string>
+    <string name="c9">此外，還在樓前鑿“天一池”通月湖，既可美化環境，又可蓄水以防火。</string>
+    <string msgid="2401572676578172896" name="cancel_button">"取消"</string>
+    <string msgid="2482357845034618478" name="dialog_button_got_it">"我知道了"</string>
+    <string msgid="4505853433204459373" name="dialog_button_open_help_center">"開啟說明中心"</string>
+    <string msgid="4028688231551615655" name="dialog_message_incompatible_phone">"必須使用支援 Daydream 平台的手機。請造訪 Daydream 說明中心瞭解詳情。"</string>
+    <string msgid="3560856374975640601" name="dialog_message_no_cardboard">"取得 Cardboard 應用程式，以便設定你的觀影盒。"</string>
+    <string msgid="418839137454435402" name="dialog_message_setup">"調整你的觀影盒設定以取得最佳使用體驗。"</string>
+    <string msgid="7887077605817014784" name="dialog_title">"設定"</string>
+    <string msgid="4515090705573059650" name="dialog_title_incompatible_phone">"手機不相容"</string>
+    <string msgid="2594928940370730859" name="dialog_title_vr_core_not_enabled">"必須完成設定"</string>
+    <string msgid="6322165810291059770" name="dialog_title_vr_core_not_installed">"必須安裝"</string>
+    <string msgid="455961049302726493" name="dialog_title_warning">"警告"</string>
+    <string msgid="1966424794507569244" name="dialog_vr_core_not_enabled">"你必須先啟用 Google VR 服務，這個應用程式才能正常運作。如要繼續，請在手機的「設定」中啟用這項服務。"</string>
+    <string msgid="7122144659930752678" name="dialog_vr_core_not_installed">"這個應用程式必須搭配 Google VR 服務才能正常運作。如要繼續，請前往 Play 商店安裝 Google VR 服務。"</string>
+    <string name="error_field_required">此項必填</string>
+    <string name="error_incorrect_password">密碼錯誤</string>
+    <string name="error_invalid_email">電話號碼無效</string>
+    <string name="error_invalid_password">密碼必須為6比特以上數位和字元</string>
+    <string name="forget_pass">忘記密碼</string>
+    <string name="forum">論 壇</string>
+    <string msgid="6145412853379876634" name="go_to_playstore_button">"前往 Play 商店"</string>
+    <string msgid="6878752668266068283" name="go_to_vr_listeners_settings_button">"前往「設定」"</string>
+    <string name="hello_blank_fragment">你好</string>
+    <string name="home_introduce">樓閣介紹</string>
+    <string name="home_link">友情鏈接</string>
+    <string name="home_map">地 圖</string>
+    <string name="home_rote">VR漫遊</string>
+    <string name="home_summary">鼓樓全景</string>
+    <string name="home_video">相關視頻</string>
+    <string name="i1">1.基本菜單</string>
+    <string name="i10">在現場可以體驗VR（360°全景）。</string>
+    <string name="i11">可以觀看天一閣復原CG（360°全景）</string>
+    <string name="i12">僅在現場能夠觀看的360°全景。</string>
+    <string name="i13">在現場體驗VR即登陸收藏，隨時都可觀看360°全景影片。</string>
+    <string name="i14">如有更新的數據會有顯示，點擊下載即可更新。</string>
+    <string name="i15">可以選擇語言。</string>
+    <string name="i16">返回首頁</string>
+    <string name="i17">點擊可查看當地天氣。</string>
+    <string name="i2">體驗VR（360°）</string>
+    <string name="i3">天一閣（360°）</string>
+    <string name="i4">收 藏</string>
+    <string name="i5">刷新數據</string>
+    <string name="i6">天一閣（360°）</string>
+    <string name="i7">構成寧波天一閣的文化介紹，簡單解說歷史</string>
+    <string name="i8">體驗構成寧波天一閣的同時，悠閒地散步遊覽，推薦此旅行線路。</string>
+    <string name="i9">可以確認所有文化遺產的場所、現在的地點。</string>
+    <string name="language">基本語言</string>
+    <string name="login">登錄</string>
+    <string name="main">主 頁</string>
+    <string name="nav_header_desc">導航標題</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="navigation_drawer_close">關閉導航抽屜</string>
+    <string name="navigation_drawer_open">打開導航抽屜</string>
+    <string msgid="5324772199357788720" name="no_browser_text">"沒有可開啟網站的瀏覽器"</string>
+    <string name="permission_rationale">"提供電子郵件填寫需要連絡人許可權."</string>
+    <string msgid="2306297166333705530" name="place_your_phone_into_cardboard">"將你的手機放入 Cardboard 觀影盒中"</string>
+    <string msgid="5433369525545709510" name="place_your_viewer_into_viewer_format">"將你的手機放入 <ns1:g id="VIEWER_NAME">%s</ns1:g> 觀影盒中"</string>
+    <string name="prompt_email">用戶名</string>
+    <string name="prompt_password">密碼（可選）</string>
+    <string name="re_pass">確認密碼</string>
+    <string name="register">註冊</string>
+    <string name="s1">(1) 寧波鼓樓</string>
+    <string name="s2">“譙樓鼓角曉連營”，元代詩人陳孚的詩句，體現了鼓樓在我國歷史上的特殊地位。</string>
+    <string name="s3">當年明州刺史韓察將州治從小溪鎮遷到寧波“三江口”，以中山廣場到鼓樓這一帶為中心，建起官置，又立木柵為城，後來又以大城磚石築成城牆，歷史</string>
+    <string name="s4">(2) 甬派建築</string>
+    <string name="s5">寧波傳統民居用材方面，木材以杉木、松木等當地鄉土樹種為主，石材也以當地出產的青石、梅園石為主，名貴木材在民居建築中較為罕見。</string>
+    <string name="s6">建築的外牆色彩主張平淡自然的美學觀，以冷灰為主調，以黑白為基色，青磚、粉牆或清水磚牆、黛瓦，以黑、白、灰的層次變化組成單純、統一的</string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜尋"</string>
+    <string msgid="3719682527828378500" name="settings_button_content_description">"設定"</string>
+    <string name="setup">設 置</string>
+    <string msgid="20964482303479393" name="setup_button">"設定"</string>
+    <string name="share">app分享</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="7856245902137004584" name="switch_viewer_action">"切換"</string>
+    <string msgid="816514297101696447" name="switch_viewer_prompt">"要使用不同的觀影盒嗎？"</string>
+    <string name="tip_account">賬號</string>
+    <string name="tip_password">密碼</string>
+    <string name="title_activity_login">登入</string>
+    <string name="title_activity_register">注册</string>
+    <string name="w1">寧波天一閣官方網站</string>
+    <string name="weather">天 氣</string>
+    <string name="z1">選擇語言</string>
+</resources>
